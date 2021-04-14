@@ -6,8 +6,8 @@
 
 # 关于源项目
 
-项目文件编译需要事先进行 OpenGL 的配置，请自行参考网络资源教程。
-在 VisualStudio 2019 中配置 Include 和 Libs。
+- 项目文件编译需要事先进行 OpenGL 的配置，请自行参考网络资源教程。
+- 在 VisualStudio 2019 中配置 Include 和 Libs。
 
 # 最终效果
 ![笑脸木箱](SmileBox.gif)
